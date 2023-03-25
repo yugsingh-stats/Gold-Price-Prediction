@@ -1,6 +1,3 @@
-# YUG JYTIRMAY
+# YUG JYOTIRMAY
 
-ndkdmd
-
-ddiniddl
 
