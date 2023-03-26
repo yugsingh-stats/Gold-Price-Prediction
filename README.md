@@ -1,4 +1,4 @@
-Prediction of gold price using monthly dataset from January 1950 to July 2020
+# Prediction of gold price using monthly dataset from January 1950 to July 2020
 
 # Background
 
